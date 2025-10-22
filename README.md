@@ -3,5 +3,5 @@
 # languages:
 # ENG: B2
 <div align="center">
-  <img src="AzusaGIT.gif" width="498" height="280">
+  <img src="AzusaGIT.gif" width="1000" height="1000">
 </div>
